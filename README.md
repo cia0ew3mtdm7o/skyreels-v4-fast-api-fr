@@ -107,14 +107,13 @@ Use the [Get an API key](https://go.apimart.ai/k-545f68) link — $1 minimum top
 <!-- related-repos:auto -->
 ## Related repositories
 
-- **Same model, this language** — the other half of this pair: [skyreels-v4-fast-prompts-fr](https://github.com/cia0ew3mtdm7o/skyreels-v4-fast-prompts-fr)
-- **Same model, other languages** — 10 more language builds: English `skyreels-v4-fast-api` · 中文 `skyreels-v4-fast-api-cn` · Deutsch `skyreels-v4-fast-api-de` · Español `skyreels-v4-fast-api-es` · Relay/gateway `skyreels-v4-fast-api-gateway` · Bahasa `skyreels-v4-fast-api-id` · 日本語 `skyreels-v4-fast-api-ja` · 한국어 `skyreels-v4-fast-api-ko` · Português `skyreels-v4-fast-api-pt` · Русский `skyreels-v4-fast-api-ru`
+- **Same model, this language** — the other half of this pair: [skyreels-v4-fast-prompts-fr](https://github.com/jym5bny/skyreels-v4-fast-prompts-fr)
+- **Same model, other languages** — 10 more language builds: English [skyreels-v4-fast-api](https://github.com/sq9wylo0imc62/skyreels-v4-fast-api) · 中文 [skyreels-v4-fast-api-cn](https://github.com/jakvpainvqgr/skyreels-v4-fast-api-cn) · Deutsch [skyreels-v4-fast-api-de](https://github.com/r7v1xhcct62ck/skyreels-v4-fast-api-de) · Español `skyreels-v4-fast-api-es` · Relay/gateway `skyreels-v4-fast-api-gateway` · Bahasa `skyreels-v4-fast-api-id` · 日本語 [skyreels-v4-fast-api-ja](https://github.com/zwod6mfil/skyreels-v4-fast-api-ja) · 한국어 `skyreels-v4-fast-api-ko` · Português `skyreels-v4-fast-api-pt` · Русский `skyreels-v4-fast-api-ru`
 - **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr)
 - **Topic hubs** — every build of this model, all languages: [skyreels-v4-fast](https://github.com/topics/skyreels-v4-fast) · [skyreels-v4-fast-api](https://github.com/topics/skyreels-v4-fast-api)
 
 This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
 <!-- /related-repos:auto -->
-
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
